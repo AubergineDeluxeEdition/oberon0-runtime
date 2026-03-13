@@ -1,0 +1,28 @@
+# SPDX-FileCopyrightText: 2026 Morisetti Alexandre
+#
+# SPDX-License-Identifier: MIT
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual env
+.venv/
+__pycache__/
+*.pyc
+
+# Build documentation
+docs/build/
+
+# Test and linting
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# OS
+Thumbs.db
+.DS_Store
