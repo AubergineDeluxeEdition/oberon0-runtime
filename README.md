@@ -3,7 +3,7 @@
 [![CI](https://github.com/AubergineDeluxeEdition/oberon0-runtime/actions/workflows/ci.yml/badge.svg)](https://github.com/AubergineDeluxeEdition/oberon0-runtime/actions)
 [![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue.svg)](https://auberginedeluxeedition.github.io/oberon0-runtime/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![REUSE status](https://api.reuse.software/badge/github/AubergineDeluxeEdition/oberon0-runtime)](https://api.reuse.software/info/github/AubergineDeluxeEdition/oberon0-runtime)
+[![REUSE status](https://api.reuse.software/badge/github.com/AubergineDeluxeEdition/oberon0-runtime)](https://api.reuse.software/info/github.com/AubergineDeluxeEdition/oberon0-runtime)
 
 Ce projet implémente un **runtime** en Python pour le langage **Oberon-0**. Il permet d'exécuter des modules compilés au format WebAssembly (WASM) en leur fournissant les fonctions système nécessaires (I/O).
 
