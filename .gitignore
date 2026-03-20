@@ -26,3 +26,5 @@ docs/build/
 # OS
 Thumbs.db
 .DS_Store
+
+wabt/
